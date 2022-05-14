@@ -1,4 +1,5 @@
-//     1. let const
+//                1. var  let const
+
 // var declare in function scoped
 // let and const declared in block scoped
 
