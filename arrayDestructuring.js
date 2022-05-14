@@ -22,7 +22,7 @@ const myproglang = ['js','php','python','java','c'];
 // console.log("my fev prog lang is "+ top1);
 
 console.log(myproglang.length);
-let [top1,,,,top5]=myproglang;
+let [top1,,,,top5]=myproglang;      // yaha pe count kr rhe 1st and last wala element
 
 console.log(`my fav prog lang is ${top1} and my last fav is ${top5}`);
 
