@@ -8,6 +8,7 @@
 
 // es6 
 
+
    // rest parameter syntax allow to indefinities number of arguumnets it represnts as an array
 
    function sum (...inputs){    /// here ... is called rest parameter
@@ -37,3 +38,5 @@ fun('Ronaldo','Neymer','Pele','Messi','Edan');
 // Pele
 // 3
 // 2
+
+
