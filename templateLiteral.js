@@ -34,3 +34,8 @@ let a =5 ;
 let b = 10;
 console.log(`fifteen is ${a+b} and  not  ${2*a+b}.`);
 
+// es6 methods 
+console.log(`${firstName}`.startsWith('s'));
+console.log(`${firstName}`.endsWith('h'));
+console.log(`${firstName}`.includes('saurabh'));
+console.log(`${firstName} ${lastName} `.repeat(10));
