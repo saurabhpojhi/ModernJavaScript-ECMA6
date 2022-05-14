@@ -24,7 +24,7 @@ mult(4);
 
 
 
-const mult1 = (a,b=4) => {
-    console.log(`${a*b}`);
+const mult1 = (a,b=4,c=5) => {
+    console.log(`${a*b*c}`);
 }
 mult1(4);
