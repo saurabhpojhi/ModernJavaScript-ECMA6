@@ -10,7 +10,7 @@
 
    // rest parameter syntax allow to indefinities number of arguumnets it represnts as an array
 
-   function sum (...inputs){
+   function sum (...inputs){    /// here ... is called rest parameter
        console.log(inputs);
       
        let total = 0;
