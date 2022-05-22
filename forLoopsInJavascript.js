@@ -17,7 +17,7 @@
           console.log(num)
       })
 
-// for ... In 
+// 3. for ... In 
 // usefull for accessing key/values pairs in object 
 
 let myObject = {
@@ -28,4 +28,13 @@ let myObject = {
 
 for (let key in myObject){
     console.log(key,myObject[key]);
+}
+
+// 4. for ... Of 
+// useful for iterating elemets(array,strings,Maps...etc);
+
+let arr = [0,1,2,3];
+
+for(let num of arr ){
+    console.log(num);
 }
