@@ -2,6 +2,8 @@
 //   hoisting means Memory to relate 
 // Hoisting is a javascript mechanism where variable and function declaretion are moved to the yop of ther scope before the code execution.
 
+// Function Hoisting 
+
 
   // even the Es6 also got error
 
