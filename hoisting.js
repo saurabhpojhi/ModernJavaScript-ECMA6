@@ -5,12 +5,19 @@
 
   // even the Es6 also got error
 
-  sum (10,10);
+//   sum (10,10); 
 
-  const sum = (a,b) =>{
-      add = a+b;
-      console.log(add)   
-  }                         // ReferenceError: Cannot access 'sum' before initialization
+//   const sum = (a,b) =>{
+//       add = a+b;
+//       console.log(add)   
+//   }        
+                 // ReferenceError: Cannot access 'sum' before initialization
+
+                 const sum1 = (a,b) =>{
+                    add = a+b;
+                    console.log(add)   
+                }        
+                sum1 (10,10);        // output 20
 
 // sum (5,10); 
 
