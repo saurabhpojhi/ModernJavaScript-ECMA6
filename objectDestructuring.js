@@ -26,3 +26,5 @@ let {name:myname,age,deg, hobby}= biodata;   // here simple string variable me s
 
 console.log(`my name is ${myname}. my age is ${age}. my deg is ${deg}. I love hobby like ${hobby.sec}`);
 
+
+
