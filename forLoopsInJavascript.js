@@ -17,3 +17,15 @@
           console.log(num)
       })
 
+// for ... In 
+// usefull for accessing key/values pairs in object 
+
+let myObject = {
+    key1:'value1',
+    key2:'value2',
+    key3:'value3'
+}
+
+for (let key in myObject){
+    console.log(key,myObject[key]);
+}
