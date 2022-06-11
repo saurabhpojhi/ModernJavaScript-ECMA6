@@ -94,10 +94,10 @@
 
 
 
-const India = "Bihar";   // this variable is global scope
-if(true){
-    const India = "UP";  // this is block scope
-    console.log(India);
-}
+// const India = "Bihar";   // this variable is global scope
+// if(true){
+//     const India = "UP";  // this is block scope
+//     console.log(India);
+// }
 
-console.log(India);     // output :  UP Bihar
+// console.log(India);     // output :  UP Bihar

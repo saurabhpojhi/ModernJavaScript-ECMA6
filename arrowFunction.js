@@ -2,22 +2,22 @@
 
 // es5
 
-var sum = function(){
-    var a =5;
-    var b= 10;
-    return a+b;
-}
+// var sum = function(){
+//     var a =5;
+//     var b= 10;
+//     return a+b;
+// }
 
-console.log(sum());
+// console.log(sum());
 
 //  es6
 
-// const sum1 = () =>{
-//     let a = 10;
-//     let b= 20;
-//     return a+b;
-// }
-// console.log(sum1());
+const sum1 = () =>{
+    let a = 10;
+    let b= 20;
+    return a+b;
+}
+console.log(sum1());
 
 //  let a= 10;
 //  let b=20;
